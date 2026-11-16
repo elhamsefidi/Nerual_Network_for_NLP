@@ -68,3 +68,5 @@ pip-wheel-metadata/
 # Local uploads and generated outputs
 uploads/
 outputs/
+
+.DS_Store
